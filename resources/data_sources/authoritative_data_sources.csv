@@ -1,0 +1,11 @@
+domain,name,provider,url,spatial_resolution,temporal_resolution,main_use,notes
+remote_sensing,Harmonized Landsat and Sentinel-2,NASA,https://hls.gsfc.nasa.gov/,30 m,Multi-day revisit,Surface reflectance and vegetation monitoring,Use official product guide and quality flags
+remote_sensing,NASA Earthdata,NASA,https://www.earthdata.nasa.gov/,Varies,Varies,Data discovery and download,Requires Earthdata account for many datasets
+remote_sensing,Landsat,USGS/NASA,https://www.usgs.gov/landsat-missions,30 m,16 days per satellite,Long-term land surface observation,Useful for historical context
+remote_sensing,Sentinel-2,Copernicus/ESA,https://dataspace.copernicus.eu/,10-60 m,5 days constellation,High-resolution optical observation,Core input to HLS harmonization
+flux_observation,FLUXNET2015,FLUXNET,https://fluxnet.org/data/fluxnet2015-dataset/,Tower footprint,Half-hourly to yearly,Carbon water and energy fluxes,Check data policy and variable definitions
+flux_observation,AmeriFlux,Lawrence Berkeley National Laboratory,https://ameriflux.lbl.gov/data/,Tower footprint,Half-hourly to yearly,North American flux tower data,Check site-specific data policy
+meteorology,ERA5,ECMWF/Copernicus,https://www.ecmwf.int/en/forecasts/dataset/ecmwf-reanalysis-v5,Approx. 31 km,Hourly,Atmospheric and land forcing,Use as background forcing not 30 m local meteorology
+meteorology,Climate Data Store,Copernicus,https://cds.climate.copernicus.eu/,Varies,Varies,ERA5 and ERA5-Land access,Requires CDS account and API setup
+land_cover,MODIS Land Products,NASA,https://lpdaac.usgs.gov/,250 m to 1 km,Daily to annual,Land surface and vegetation products,Useful for broad-scale context
+

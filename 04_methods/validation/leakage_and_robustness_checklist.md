@@ -26,11 +26,10 @@
 
 ## 我的项目最低标准
 
-如果要把结果写进论文或简历，至少需要说明：
+如果要把结果写进论文、报告或项目复盘，至少需要说明：
 
 - 使用 site-level CV。
 - normalization 只用训练站点拟合。
 - FAT 与 fixed-grid 使用相同 backbone。
 - 报告站点级和分量级结果。
 - 解释 GPP/NEE/RECO 的差异和局限。
-

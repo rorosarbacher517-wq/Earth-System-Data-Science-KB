@@ -42,11 +42,11 @@
 | 自然资源部 | https://www.mnr.gov.cn/ | `policies/ecological_conservation/`, `policies/data_and_geospatial/` | 国土空间、自然资源、测绘地理信息 |
 | 国家林草局 | https://www.forestry.gov.cn/ | `policies/ecological_conservation/` | 林草碳汇、生态系统保护和修复 |
 
-## 企业和产业信息
+## 技术与产业观察
 
-| 来源 | URL | 归档位置 | 说明 |
-|---|---|---|---|
-| 华为官网/招聘/数字能源 | https://www.huawei.com/ | `reports/industry/`, `08_career_mapping/` | 数字能源、云、行业解决方案、岗位需求 |
-| 腾讯官网/腾讯云/可持续社会价值 | https://www.tencent.com/ | `reports/industry/`, `08_career_mapping/` | 云、空间智能、可持续发展、ESG |
-| 阿里云/高德/阿里巴巴 ESG | https://www.alibabagroup.com/ | `reports/industry/`, `08_career_mapping/` | 云计算、地理空间、ESG、城市治理 |
+| 类型 | 用途 | 归档位置 |
+|---|---|---|
+| 云平台和地理空间技术文档 | 理解大规模遥感数据处理、STAC、对象存储、计算平台 | `reports/industry/`, `03_data_and_technology/` |
+| 数字能源和碳管理白皮书 | 理解碳管理平台、MRV 数据链和企业碳治理 | `reports/industry/`, `06_applications/` |
+| ESG 和可持续披露标准 | 理解环境数据披露、气候风险和自然资本指标 | `reports/policy/`, `05_policy_and_regulation/` |
 

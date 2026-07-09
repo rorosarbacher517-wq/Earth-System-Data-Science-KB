@@ -1,0 +1,12 @@
+domain,name,provider,url,main_use,notes
+international_climate,IPCC AR6 Synthesis Report,IPCC,https://www.ipcc.ch/report/ar6/syr/,Climate science assessment,Use for climate risk and global carbon context
+international_climate,Paris Agreement,UNFCCC,https://unfccc.int/process-and-meetings/the-paris-agreement,Global climate governance,NDC and transparency framework context
+international_climate,Global Stocktake,UNFCCC,https://unfccc.int/topics/global-stocktake,Assessment of collective climate progress,Useful for monitoring and verification context
+china_policy,China government policy portal,State Council of China,https://www.gov.cn/,Top-level policy source,Use for carbon peak and carbon neutrality source documents
+china_policy,Ministry of Ecology and Environment,MEE,https://www.mee.gov.cn/,Carbon market and environmental regulation,Use for MRV and carbon trading policies
+china_policy,National Development and Reform Commission,NDRC,https://www.ndrc.gov.cn/,Energy transition and carbon peak policy,Use for dual-carbon and industry policy
+china_policy,Ministry of Natural Resources,MNR,https://www.mnr.gov.cn/,Natural resources and geospatial governance,Use for land and geospatial data policy
+china_policy,National Forestry and Grassland Administration,NFGA,https://www.forestry.gov.cn/,Forestry grassland and carbon sink policy,Use for ecosystem carbon sink context
+standards,GHG Protocol,WRI/WBCSD,https://ghgprotocol.org/,Corporate greenhouse gas accounting,Use for ESG and carbon accounting context
+standards,IFRS S2 Climate-related Disclosures,IFRS Foundation,https://www.ifrs.org/,Climate-related disclosure,Use for sustainability reporting context
+

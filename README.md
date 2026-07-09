@@ -1,6 +1,6 @@
 # 个人地球系统数据科学知识库
 
-这个知识库以我的主要研究为主干：基于多源遥感、气象与通量观测数据，理解、估算、解释和应用陆地生态系统碳交换过程。它不是单纯面向求职的材料库，而是一个长期学习、研究、项目复盘和能力成长系统。
+这个知识库以“遥感、气象、生态碳通量与时空数据科学”为主干，用来长期沉淀理论、概念、数据、方法、政策、应用、项目经验和阅读资料。它的核心目的不是展示话术，而是帮助我建立可持续生长的知识体系。
 
 ## 主干问题
 
@@ -8,38 +8,20 @@
 
 ## 知识体系
 
-本库按“理论、认识、数据与技术、方法、政策法规、应用、项目案例、岗位映射”组织。
+本库按“理论、认识、数据与技术、方法、政策法规、应用、项目案例、知识迁移”组织。
 
 | 模块 | 作用 | 核心问题 |
 |---|---|---|
-| `00_knowledge_framework/` | 管理知识库的总规则 | 如何持续积累、归类和复盘知识 |
-| `01_theory/` | 底层理论 | 这个领域为什么成立 |
-| `02_understanding/` | 个人认识 | 我如何理解问题、边界和趋势 |
-| `03_data_and_technology/` | 数据与技术 | 我用什么数据和工具做研究 |
-| `04_methods/` | 方法库 | 我如何处理、建模、验证和表达 |
-| `05_policy_and_regulation/` | 政策法规 | 国家、社会和产业为什么需要这些能力 |
-| `06_applications/` | 应用场景 | 这些知识可以落到哪些真实问题 |
-| `07_projects_and_cases/` | 项目案例 | 我的研究如何体现这些知识 |
-| `08_career_mapping/` | 岗位映射 | 外部岗位如何调用这套能力 |
-
-## 文件资产
-
-| 文件夹 | 存放内容 |
-|---|---|
-| `papers/` | 论文 PDF、论文清单、阅读笔记入口 |
-| `reports/` | 行业报告、市场报告、机构白皮书 |
-| `policies/` | 政策法规、标准、官方文件 |
-| `datasets/` | 数据说明、样例数据、数据源索引 |
-| `code/` | 可复用代码片段、流程、notebook |
-| `assets/` | 概念图、图表、流程图和截图 |
-
-## 当前第一版目标
-
-1. 建立稳定的知识分类框架。
-2. 把已有 HLS-气象-碳通量研究放到项目主干中。
-3. 为论文、政策、报告、数据和代码建立归档规则。
-4. 预留与企业、社会、国家和世界需求相连接的应用层。
-5. 后续迭代时逐步填入论文、政策文件、方法笔记和项目复盘。
+| `00_knowledge_framework/` | 管理知识库的总规则 | 如何持续积累、归类、核验和复盘知识 |
+| `01_theory/` | 底层理论 | 这个领域的概念、机制和基本假设是什么 |
+| `02_understanding/` | 个人认识 | 如何形成对问题边界、尺度和不确定性的判断 |
+| `03_data_and_technology/` | 数据与技术 | 有哪些可观测数据、工具和计算平台 |
+| `04_methods/` | 方法库 | 如何处理、建模、验证、解释和表达 |
+| `05_policy_and_regulation/` | 政策法规 | 碳、生态、气候和数据治理的制度背景是什么 |
+| `06_applications/` | 应用场景 | 这些知识如何服务碳监测、生态评估和气候风险分析 |
+| `07_projects_and_cases/` | 项目案例 | 如何从实际研究中沉淀可复用经验 |
+| `08_knowledge_transfer/` | 知识迁移 | 如何把知识连接到相邻学科、工程系统和现实问题 |
+| `resources/` | 资料资产 | 参考文献、政策源、数据源、术语和学习路线 |
 
 ## 已填充的核心内容
 
@@ -61,25 +43,32 @@
 - [支持组成差异诊断](04_methods/interpretation/support_composition_diagnosis.md)
 - [泄漏控制与稳健性检查清单](04_methods/validation/leakage_and_robustness_checklist.md)
 
-### 政策、应用与岗位层
+### 政策与应用层
 
 - [中国双碳政策背景](05_policy_and_regulation/carbon_neutrality/china_dual_carbon_policy_context.md)
 - [MRV 与碳监测](05_policy_and_regulation/carbon_accounting/mrv_and_carbon_monitoring.md)
 - [碳监测与 MRV 产品图谱](06_applications/carbon_monitoring_mrv/carbon_monitoring_product_map.md)
 - [数字能源与碳管理](06_applications/digital_energy/digital_energy_and_carbon_management.md)
-- [大厂与研究机构岗位映射](08_career_mapping/big_tech_position_map.md)
-- [面试项目讲述：HLS-footprint 碳通量项目](08_career_mapping/project_story_for_interviews.md)
+- [生态系统气候风险评估](06_applications/climate_risk/ecosystem_climate_risk_assessment.md)
+- [ESG 与环境数据系统](06_applications/esg_sustainability/esg_environmental_data_system.md)
+
+### 知识迁移与资料资产
+
+- [跨领域应用图谱](08_knowledge_transfer/cross_domain_application_map.md)
+- [HLS-footprint 碳通量项目解释](08_knowledge_transfer/project_explanation_for_learning.md)
+- [知识能力矩阵](08_knowledge_transfer/knowledge_capability_matrix.md)
 - [来源与证据索引](00_knowledge_framework/06_sources_and_evidence_index.md)
+- [核心参考文献 BibTeX](resources/references/core_references.bib)
+- [权威数据源清单](resources/data_sources/authoritative_data_sources.csv)
+- [政策与标准来源清单](resources/policy_sources/policy_and_standard_sources.csv)
+- [核心术语表](resources/glossary/core_terms.md)
+- [学习路线图](resources/learning_paths/earth_system_data_science_path.md)
 
-## 使用方式
+## 资料归档原则
 
-新增知识时先判断它属于哪一类：
+1. 数据、政策、论文和报告都要记录来源、时间、URL、许可或使用边界。
+2. 公开仓库优先存放元数据、阅读笔记、引用文件和公开资料链接；受版权或许可限制的 PDF 不直接上传。
+3. 每篇论文进入知识库时，需要写清研究问题、数据、方法、发现、局限和可复用内容。
+4. 每个方法笔记需要说明适用场景、不适用场景、输入、输出、验证方式和常见错误。
+5. 项目案例只作为知识沉淀，不作为宣传材料；重点记录问题定义、证据链、方法边界和可迁移经验。
 
-1. 如果是原理、概念、公式，放入 `01_theory/`。
-2. 如果是我自己的判断、综述、反思，放入 `02_understanding/`。
-3. 如果是数据源、软件、平台、工具链，放入 `03_data_and_technology/`。
-4. 如果是可复用分析过程，放入 `04_methods/`。
-5. 如果是双碳、碳市场、生态保护、数据合规相关文件，放入 `05_policy_and_regulation/` 或 `policies/`。
-6. 如果是行业应用、产品场景或社会需求，放入 `06_applications/`。
-7. 如果来自我的研究项目，放入 `07_projects_and_cases/` 并链接到相关理论、方法和数据。
-8. 如果要转成简历、面试或岗位语言，放入 `08_career_mapping/`。

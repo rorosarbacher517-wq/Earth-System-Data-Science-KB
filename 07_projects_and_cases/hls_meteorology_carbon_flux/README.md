@@ -59,7 +59,7 @@ EC 观测源区动态
 - 方法层：时空匹配、建模、解释、验证、可视化。
 - 政策法规层：碳监测、MRV、生态碳汇、双碳。
 - 应用层：碳汇评估、遥感碳监测、AI for Earth、数字能源。
-- 岗位映射层：遥感算法、数据科学、AI for Science、数字能源解决方案。
+- 知识迁移层：遥感产品验证、时空数据融合、AI for Earth、碳监测和生态风险分析。
 
 ## 后续需要沉淀
 
@@ -67,4 +67,3 @@ EC 观测源区动态
 2. 把模型结构和 observation operator 整理成 `modeling_strategy.md`。
 3. 把结果图、审稿逻辑和稳健性分析整理成 `results_and_limitations.md`。
 4. 把可迁移经验整理成 `reusable_experience.md`。
-

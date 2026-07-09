@@ -46,14 +46,14 @@
 - HLS QC 和有效像元检查。
 - EC flux QC 和缺测处理。
 - Footprint-weighted aggregation。
-- Same-backbone ablation。
+- Same-backbone comparison。
 - Site-level cross-validation。
 - 支持组成差异诊断。
 - 变量重要性、PDP、SHAP、阈值和稳健性分析。
 
-## 第 5 轮：补应用和岗位映射
+## 第 5 轮：补应用与知识迁移
 
-目标：把知识体系连接到企业、社会、国家和世界需求。
+目标：把知识体系连接到科学研究、工程实现、政策治理和现实应用。
 
 优先方向：
 
