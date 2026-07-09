@@ -41,6 +41,36 @@
 4. 预留与企业、社会、国家和世界需求相连接的应用层。
 5. 后续迭代时逐步填入论文、政策文件、方法笔记和项目复盘。
 
+## 已填充的核心内容
+
+### 理论层
+
+- [碳通量核心概念：NEE、GPP、RECO、NPP](01_theory/carbon_cycle/carbon_flux_core_concepts.md)
+- [光学遥感与植被碳过程](01_theory/remote_sensing/optical_remote_sensing_for_vegetation.md)
+- [气象因子对碳通量的控制](01_theory/meteorology_climate/meteorological_controls_on_carbon_flux.md)
+- [观测支持、尺度与代表性](01_theory/spatiotemporal_science/observation_support_and_scale.md)
+- [预测、解释与因果的边界](01_theory/statistics_ml/prediction_explanation_causality.md)
+
+### 数据与方法层
+
+- [时空数据类型](03_data_and_technology/geospatial_data/spatiotemporal_data_types.md)
+- [Python 地理空间与时空数据工具栈](03_data_and_technology/python_tools/python_geospatial_stack.md)
+- [HLS 质量控制与有效像元检查](04_methods/preprocessing/hls_quality_control.md)
+- [气象特征工程](04_methods/feature_engineering/meteorological_feature_engineering.md)
+- [Footprint-aware Transformer 建模策略](04_methods/modeling/footprint_aware_transformer.md)
+- [支持组成差异诊断](04_methods/interpretation/support_composition_diagnosis.md)
+- [泄漏控制与稳健性检查清单](04_methods/validation/leakage_and_robustness_checklist.md)
+
+### 政策、应用与岗位层
+
+- [中国双碳政策背景](05_policy_and_regulation/carbon_neutrality/china_dual_carbon_policy_context.md)
+- [MRV 与碳监测](05_policy_and_regulation/carbon_accounting/mrv_and_carbon_monitoring.md)
+- [碳监测与 MRV 产品图谱](06_applications/carbon_monitoring_mrv/carbon_monitoring_product_map.md)
+- [数字能源与碳管理](06_applications/digital_energy/digital_energy_and_carbon_management.md)
+- [大厂与研究机构岗位映射](08_career_mapping/big_tech_position_map.md)
+- [面试项目讲述：HLS-footprint 碳通量项目](08_career_mapping/project_story_for_interviews.md)
+- [来源与证据索引](00_knowledge_framework/06_sources_and_evidence_index.md)
+
 ## 使用方式
 
 新增知识时先判断它属于哪一类：
@@ -53,4 +83,3 @@
 6. 如果是行业应用、产品场景或社会需求，放入 `06_applications/`。
 7. 如果来自我的研究项目，放入 `07_projects_and_cases/` 并链接到相关理论、方法和数据。
 8. 如果要转成简历、面试或岗位语言，放入 `08_career_mapping/`。
-
