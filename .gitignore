@@ -1,0 +1,14 @@
+# Temporary and system files
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+*.tmp
+*.log
+Thumbs.db
+.DS_Store
+
+# Large local-only data placeholders
+datasets/**/raw/
+datasets/**/intermediate/
+datasets/**/private/
+
