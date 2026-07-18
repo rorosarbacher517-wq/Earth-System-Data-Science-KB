@@ -10,7 +10,7 @@
 2. [深度学习](./deep_learning.md)
 3. [Transformer](./transformer.md)
 4. [multimodal_learning](./multimodal_learning.md)
-5. [智能体](./agent_systems.md)
+
 
 ## 基础知识导航
 
