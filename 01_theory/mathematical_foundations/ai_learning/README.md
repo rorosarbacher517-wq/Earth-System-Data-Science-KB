@@ -10,6 +10,8 @@
 2. [深度学习](./deep_learning.md)
 3. [Transformer](./transformer.md)
 4. [Physical AI](./physical_ai.md)
+5. multimodal_learning(./multimodal_learning.md)
+6. 智能体(./agent_systems.md)
 
 ## 基础知识导航
 
