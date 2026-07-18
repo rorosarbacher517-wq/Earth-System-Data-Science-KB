@@ -47,3 +47,30 @@
 - [PyTorch基础](../foundations/programming_systems.md#pytorch基础)
 - [Linux与Git](../foundations/programming_systems.md#linux与git)
 - [GPU与并行计算](../foundations/programming_systems.md#gpu与并行计算)
+
+## 知识点名称
+
+### 1. 它解决什么问题
+
+### 2. 核心原理
+
+### 3. 核心公式
+
+### 4. 前置基础
+
+- [数学知识](链接)
+- [概率知识](链接)
+- [算法知识](链接)
+- [编程知识](链接)
+
+### 5. 从零实现
+
+### 6. 框架实现
+
+### 7. 与我的项目的联系
+
+### 8. 常见错误
+
+### 9. 工业问题
+
+### 10. 掌握状态
