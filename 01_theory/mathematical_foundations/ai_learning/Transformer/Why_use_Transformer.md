@@ -416,11 +416,11 @@ Transformer 参数较多，在数据量不足时可能：
 
 ---
 
-### 11. 面试回答
+### 11.总结
 
 #### 问题
 
-为什么你的模型使用 Transformer，而不是 RNN、LSTM 或 CNN？
+为什么使用 Transformer，而不是 RNN、LSTM 或 CNN？
 
 #### 参考回答
 
