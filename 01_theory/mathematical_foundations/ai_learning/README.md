@@ -8,7 +8,7 @@
 
 1. [机器学习](./machine_learning.md)
 2. [深度学习](./deep_learning.md)
-3. [Transformer](./01_theory/mathematical_foundations/ai_learning/Transformer/)
+3. [Transformer](./Transformer)
 4. [Multimodal_learning](./multimodal_learning.md)
 
 
