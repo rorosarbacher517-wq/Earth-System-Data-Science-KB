@@ -8,7 +8,7 @@
 
 1. [机器学习](./machine_learning.md)
 2. [深度学习](./deep_learning.md)
-3. [Transformer](./transformer.md)
+3. [Transformer](./Transformer)
 4. [multimodal_learning](./multimodal_learning.md)
 
 
