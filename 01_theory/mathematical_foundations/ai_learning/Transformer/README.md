@@ -2,8 +2,8 @@
 
 ## 目录导航
 
-- [为什么要使用 Transformer](#为什么要使用-transformer)
-- [Transformer 的整体结构](#transformer-的整体结构)
+- [为什么要使用 Transformer](./Why_use_Transformer.md)
+- [Transformer 的整体结构](#./Transformer_structure.md)
 - [注意力机制](#注意力机制)
 - [QKV 的含义](#qkv-的含义)
 - [位置编码](#位置编码)
